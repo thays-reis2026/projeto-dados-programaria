@@ -20,7 +20,7 @@ Análise exploratória sobre o mercado de trabalho em Tecnologia da Informação
 
 2. Consultas SQL — Status Brasil (Municípios)
 
-Modelagem de banco de dados relacional e consultas SQL (SQLite/DBeaver) sobre municípios brasileiros, criação, inserção de informações e adicionando colunas nas tabelas, fazendo consultas Cruzando dados geográficos, indicadores socioeconômicos (IDHM, educação, renda) e composição racial por região — incluindo a comparação entre pessoas brancas e pretas/pardas em cargos de gerência.
+Modelagem de banco de dados relacional e consultas SQL (SQLite/DBeaver) sobre municípios brasileiros, criação, inserção de informações e adicionando colunas nas tabelas, fazendo consultas cruzando dados geográficos, indicadores socioeconômicos (IDHM, educação, renda) e composição racial por região — incluindo a comparação entre pessoas brancas e pretas/pardas em cargos de gerência.
 
 3. Relatório de Análise de Diversidade 2022 — Curso PrograMaria
 
